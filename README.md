@@ -20,3 +20,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/Divyajeet7978/Portfolio_Redesigned/blob/main/img/snake.svg" alt="Snake animation" />
+
+###

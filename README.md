@@ -5,7 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyajeet7978&label=Profile%20views&color=0e75b6&style=flat" alt="divyajeet7978" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [AI-Driven Cybersecurity Threat Detection](https://github.com/Divyajeet7978/AI-Driven-Cybersecurity-Threat-Detection-System)<br><br>- 🌱 I’m currently learning **TensorFlow, Dask, Vue.JS, Node.JS**<br><br>- 👨‍💻 All of my projects are available at [https://divyajeet.netlify.app/](https://divyajeet.netlify.app/)<br><br>- 📫 How to reach me **divyajeetpanda@outlook.com**
+- 🔭 I’m currently working on [AI-Driven Cybersecurity Threat Detection](https://github.com/Divyajeet7978/AI-Driven-Cybersecurity-Threat-Detection-System)<br><br>
+- 🌱 I’m currently learning **TensorFlow, Dask, Vue.JS, Node.JS**<br><br>
+- 👨‍💻 All of my projects are available at [https://divyajeet.netlify.app/](https://divyajeet.netlify.app/)<br><br>
+- 📫 How to reach me **divyajeetpanda@outlook.com**
 
 
 ## 🌐 Socials:

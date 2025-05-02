@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyajeet</h1>
+<p align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Image">
 <h3 align="center">As a Full Stack Developer, with experience in software development, database administration, and AIdriven solutions. Specialization in Python, JavaScript/TypeScript, and SQL, with proficiency in data structures, algorithms, and problem solving. I have built and supported applications with frameworks like Django, Flask, React.js, and Node.js. Experience with Agile teams—coupled with experience in deploying solutions on AWS—has consistently produced scalable, secure, and high-performing applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyajeet7978&label=Profile%20views&color=0e75b6&style=flat" alt="divyajeet7978" /> </p>
